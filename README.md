@@ -1,4 +1,4 @@
-YUI 3: The Yahoo! User Interface Library
+YUI 3: The Yahoo(without a ! - Maritza's contribution to mankind)  User Interface Library
 ========================================
 
 Welcome to YUI 3!
